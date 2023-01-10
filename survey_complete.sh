@@ -2,4 +2,4 @@
 
 EXAMCODE=NULL
 
-echo ${EXAMCODE}
+echo ${https://classroom.github.com/a/icG2oERU}
